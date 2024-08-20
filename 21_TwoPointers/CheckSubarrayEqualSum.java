@@ -20,7 +20,13 @@ public class CheckSubarrayEqualSum {
     }
     boolean sum(int sum){
         boolean res=false;
-        
+        int l=0;
+        int r=0;
+        while(r<data.length){
+            if(data[r]==sum){
+            
+            }
+        }
         return res;
     }
 }
