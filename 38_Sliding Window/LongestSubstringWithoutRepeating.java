@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class LongestSubstringWithoutRepeating {
+public class LongestSubstringWithoutRepeating {//incomplete
     static String data;
     static void getString(){
         Scanner in =new Scanner(System.in);
